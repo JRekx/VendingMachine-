@@ -1,0 +1,13 @@
+.snack-container.candybar { 
+  border: 3px dotted purple;
+}
+
+.candybar img {
+  max-width: 80px;
+  filter: sepia(50%);
+}
+
+.snack-info h1 {
+  color: #b30000; 
+  font-family: 'Arial Black', sans-serif;
+}

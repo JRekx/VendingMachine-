@@ -1,0 +1,17 @@
+.snack-container.chips { 
+  border: 4px dashed hotpink; 
+}
+
+.chips img {
+  max-width: 100px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.snack-info h1 {
+  color: #ffbb33; /* Cheesy yellow! */
+  font-family: 'Comic Sans MS', cursive; 
+}
+
+.snack-info p {
+  font-style: italic;
+}

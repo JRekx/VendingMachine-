@@ -1,0 +1,15 @@
+.snack-container.soda { 
+  border: 5px solid #007bff; 
+  border-radius: 15px;
+}
+
+.soda img {
+  transform: rotate(10deg);
+}
+
+.snack-info h1 {
+  color: white;
+  text-shadow: 2px 2px 5px #000; 
+}
+
+  
